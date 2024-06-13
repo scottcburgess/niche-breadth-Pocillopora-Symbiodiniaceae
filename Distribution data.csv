@@ -1,0 +1,725 @@
+﻿Trip,Date collected.YYYY-MM-DD,Preservative,Depth.m,Site,Coral.ID,Box ID,mtORF.RFLP,Cladocopium_species,Cladocopium_clade,Plate Number
+2,,DMSO,10,1,11A38,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,11B13,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,12A39,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,12B26,,Haplotype 11,,,From_2019_dataset
+2,,DMSO,10,1,12B40,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,13A08,,Haplotype 3b,,,From_2019_dataset
+2,,DMSO,10,1,13B03,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,13B24,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,13C27,,Haplotype 8a,,,From_2019_dataset
+2,,DMSO,10,1,13C72,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,14A46,,Haplotype 11,,,From_2019_dataset
+2,,DMSO,10,1,14A48,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,14B53,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,14B56,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,15A51,,Haplotype 3a,,,From_2019_dataset
+2,,DMSO,10,1,15B47,,Haplotype 1a_Pgra,,,From_2019_dataset
+2,,DMSO,10,1,15B60,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,15B67,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,1,15C54,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,1,15C61,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,21C04,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,2,21C14,,Haplotype 1a_Pgra,,,From_2019_dataset
+2,,DMSO,10,2,21D26,,Haplotype 11,,,From_2019_dataset
+2,,DMSO,10,2,21D37,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,2,22B53,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,23A51,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,23B11,,Haplotype 1a_Pgra,,,From_2019_dataset
+2,,DMSO,10,2,23B44,,Haplotype 8a,,,From_2019_dataset
+2,,DMSO,10,2,23C12,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,24A22,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,24A34,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,24B25,,Haplotype 1a_Pgra,,,From_2019_dataset
+2,,DMSO,10,2,24B42,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,2,24C57,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,2,26A76,,Haplotype 11,,,From_2019_dataset
+2,,DMSO,10,2,26B61,,Haplotype 8a,,,From_2019_dataset
+2,,DMSO,10,2,26B69,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,41A52,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,41A56,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,41A69,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,41D59,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42A73,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42A76,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42A77,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42B64,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42C51,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,42C88,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,43A62,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,44B47,,Haplotype 1a_Pgra,,,From_2019_dataset
+2,,DMSO,10,4,46A25,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,4,46B11,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,51D09,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,52A25,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,52B17,,Haplotype 8a,,,From_2019_dataset
+2,,DMSO,10,5,52B26,,Haplotype 8a,,,From_2019_dataset
+2,,DMSO,10,5,52C36,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,52D03,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,53C47,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,53D60,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,5,53D68,,Haplotype 1a_Pm,,,From_2019_dataset
+2,,DMSO,10,5,56A45,,Haplotype 10,,,From_2019_dataset
+2,,DMSO,10,5,56B38,,Haplotype 8a,,,From_2019_dataset
+3,12/17/21,DMSO,1,1,21_01_01_01,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_02,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_03,2021_3,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,1,1,21_01_01_04,2021_3,Haplotype 5a,C. pacificum,V,3
+3,12/17/21,DMSO,1,1,21_01_01_05,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_06,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_07,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_08,2021_3,Haplotype 5a,C. pacificum,VII,3
+3,12/17/21,DMSO,1,1,21_01_01_09,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_10,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_11,2021_3,Haplotype 5a,C. pacificum,V,3
+3,12/17/21,DMSO,1,1,21_01_01_12,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_13,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_14,2021_3,Haplotype 5a,C. latusorum,I,3
+3,12/17/21,DMSO,1,1,21_01_01_15,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_16,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_17,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_18,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_19,2021_3,Haplotype 5a,,,3
+3,12/17/21,DMSO,1,1,21_01_01_20,2021_3,Haplotype 5a,,,3
+3,12/19/21,DMSO,1,2,21_01_02_01,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_02,2021_6,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,1,2,21_01_02_03,2021_6,Haplotype 1a_Pgra,C. latusorum,I,5
+3,12/19/21,DMSO,1,2,21_01_02_04,2021_6,Haplotype 3a,C. pacificum,V,5
+3,12/19/21,DMSO,1,2,21_01_02_05,2021_6,Haplotype 5a,C. pacificum,V,5
+3,12/19/21,DMSO,1,2,21_01_02_06,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_07,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,1,2,21_01_02_08,2021_6,Haplotype 3f,,,5
+3,12/19/21,DMSO,1,2,21_01_02_09,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_10,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_11,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_12,2021_6,Haplotype 3f,C. pacificum,V,5
+3,12/19/21,DMSO,1,2,21_01_02_13,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,1,2,21_01_02_14,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_15,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_16,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_17,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_18,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_19,2021_6,Haplotype 3b,C. pacificum,IX,5
+3,12/19/21,DMSO,1,2,21_01_02_20,2021_6,Haplotype 3b,,,5
+3,12/19/21,DMSO,1,2,21_01_02_21,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_22,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_23,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_24,2021_6,Haplotype 3b,,,5
+3,12/19/21,DMSO,1,2,21_01_02_25,2021_6,Haplotype 3b,,,5
+3,12/19/21,DMSO,1,2,21_01_02_26,2021_6,Haplotype 5a,C. pacificum,IX,5
+3,12/19/21,DMSO,1,2,21_01_02_27,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_28,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_29,2021_6,Haplotype 3b,C. pacificum,VIII,5
+3,12/19/21,DMSO,1,2,21_01_02_30,2021_6,Haplotype 3b,C. latusorum,I,5
+3,12/19/21,DMSO,1,2,21_01_02_31,2021_6,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_32,2021_6,Haplotype 1a_Pgra,C. latusorum,III,5
+3,12/19/21,DMSO,1,2,21_01_02_33,,Haplotype 1a_Pgra,C. latusorum,III,5
+3,12/19/21,DMSO,1,2,21_01_02_34,,Haplotype 5a,,,5
+3,12/19/21,DMSO,1,2,21_01_02_35,,Haplotype 5a,,,5
+3,12/17/21,DMSO,2,1,21_02_01_01,2021_3,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_02,2021_3,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_03,2021_3,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_04,2021_3,Haplotype 8a,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_05,2021_3,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_06,2021_3,Haplotype 3b,C. pacificum,VI,3
+3,12/17/21,DMSO,2,1,21_02_01_07,2021_4,Haplotype 8a,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_08,2021_4,Haplotype 10,C. pacificum,IX,3
+3,12/17/21,DMSO,2,1,21_02_01_09,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_10,2021_4,Haplotype 1a_Pgra,,,3
+3,12/17/21,DMSO,2,1,21_02_01_11,2021_4,Haplotype 1a_Pgra,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_12,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_13,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_14,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_15,2021_4,Haplotype 10,C. pacificum,VI,3
+3,12/17/21,DMSO,2,1,21_02_01_16,2021_4,Haplotype 3a,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_17,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_18,2021_4,Haplotype 1a_Pgra,C. latusorum,II,3
+3,12/17/21,DMSO,2,1,21_02_01_19,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_20,2021_4,Haplotype 3b,C. pacificum,IX,3
+3,12/17/21,DMSO,2,1,21_02_01_21,2021_4,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_22,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_23,2021_4,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_24,2021_4,Haplotype 8a,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_25,2021_4,Haplotype 8a,,,3
+3,12/17/21,DMSO,2,1,21_02_01_26,2021_4,Haplotype 8a,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_27,2021_4,Haplotype 10,C. pacificum,IX,3
+3,12/17/21,DMSO,2,1,21_02_01_28,2021_4,Haplotype 10,C. pacificum,IX,3
+3,12/17/21,DMSO,2,1,21_02_01_29,2021_4,Haplotype 3b,C. pacificum,VIII,3
+3,12/17/21,DMSO,2,1,21_02_01_30,2021_4,Haplotype 3a,C. pacificum,VIII,3
+3,12/17/21,DMSO,2,1,21_02_01_31,2021_4,Haplotype 3b,C. pacificum,VIII,3
+3,12/17/21,DMSO,2,1,21_02_01_32,2021_4,Haplotype 8a,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_33,2021_4,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_34,2021_4,Haplotype 3b,C. pacificum,V,3
+3,12/17/21,DMSO,2,1,21_02_01_35,2021_4,Haplotype 1a_Pgra,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_36,2021_4,Haplotype 1a_Pm,,,3
+3,12/17/21,DMSO,2,1,21_02_01_37,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_38,2021_4,Haplotype 1a_Pgra,,,3
+3,12/17/21,DMSO,2,1,21_02_01_39,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_40,2021_4,Haplotype 3b,C. pacificum,VIII,3
+3,12/17/21,DMSO,2,1,21_02_01_41,2021_4,Haplotype 10,,,3
+3,12/17/21,DMSO,2,1,21_02_01_42,2021_4,Haplotype 10,C. pacificum,VI,3
+3,12/17/21,DMSO,2,1,21_02_01_43,2021_4,Haplotype 3b,,,3
+3,12/17/21,DMSO,2,1,21_02_01_44,2021_4,Haplotype 1a_Pgra,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_45,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_46,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_47,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_48,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_49,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_50,2021_4,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/17/21,DMSO,2,1,21_02_01_51,2021_4,Haplotype 5a,,,3
+3,12/17/21,DMSO,2,1,21_02_01_52,2021_4,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/17/21,DMSO,2,1,21_02_01_53,2021_4,Haplotype 3b,C. pacificum,V,4
+3,12/17/21,DMSO,2,1,21_02_01_54,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/17/21,DMSO,2,1,21_02_01_55,2021_4,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/17/21,DMSO,2,1,21_02_01_56,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/17/21,DMSO,2,1,21_02_01_57,2021_4,Haplotype 1a_Pgra,C. latusorum,I,4
+3,12/17/21,DMSO,2,1,21_02_01_58,2021_4,Haplotype 3e,,,4
+3,12/17/21,DMSO,2,1,21_02_01_59,2021_4,Haplotype 3h,C. pacificum,VIII,4
+3,12/17/21,DMSO,2,1,21_02_01_60,2021_4,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/17/21,DMSO,2,1,21_02_01_61,2021_4,Haplotype 10,,,4
+3,12/19/21,DMSO,2,2,21_02_02_01,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/19/21,DMSO,2,2,21_02_02_02,2021_5,Haplotype 8a,C. latusorum,I,4
+3,12/19/21,DMSO,2,2,21_02_02_03,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/19/21,DMSO,2,2,21_02_02_04,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/19/21,DMSO,2,2,21_02_02_05,2021_5,Haplotype 1a_Pm,,,4
+3,12/19/21,DMSO,2,2,21_02_02_06,2021_5,Haplotype 3f,C. pacificum,IX,4
+3,12/19/21,DMSO,2,2,21_02_02_07,2021_5,Haplotype 3b,C. pacificum,VI,4
+3,12/19/21,DMSO,2,2,21_02_02_08,2021_5,Haplotype 3b,C. pacificum,V,4
+3,12/19/21,DMSO,2,2,21_02_02_09,2021_5,Haplotype 1a_Pgra,,,4
+3,12/19/21,DMSO,2,2,21_02_02_10,2021_5,Haplotype 1a_Pm,,,4
+3,12/19/21,DMSO,2,2,21_02_02_11,2021_5,Haplotype 1a_Pgra,,,4
+3,12/19/21,DMSO,2,2,21_02_02_12,2021_5,Haplotype 8a,,,4
+3,12/19/21,DMSO,2,2,21_02_02_13,2021_5,Haplotype 8a,,,4
+3,12/19/21,DMSO,2,2,21_02_02_14,2021_5,Haplotype 1a_Pm,,,4
+3,12/19/21,DMSO,2,2,21_02_02_15,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/19/21,DMSO,2,2,21_02_02_16,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/19/21,DMSO,2,2,21_02_02_17,2021_5,Haplotype 3b,,,5
+3,12/19/21,DMSO,2,2,21_02_02_18,2021_5,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_19,2021_5,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_20,2021_5,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_21,2021_5,Haplotype 1a_Pgra,C. latusorum,II,5
+3,12/19/21,DMSO,2,2,21_02_02_22,2021_5,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_23,2021_5,Haplotype 1a_Pgra,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_24,2021_5,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_25,2021_5,Haplotype 8a,,,5
+3,12/19/21,DMSO,2,2,21_02_02_26,2021_5,Haplotype 3h,C. pacificum,V,5
+3,12/19/21,DMSO,2,2,21_02_02_27,2021_5,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_28,2021_5,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_29,2021_5,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_30,2021_5,Haplotype 10,,,5
+3,12/19/21,DMSO,2,2,21_02_02_31,2021_5,Haplotype 1a_Pgra,,,5
+3,12/19/21,DMSO,2,2,21_02_02_32,2021_5,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_33,2021_5,Haplotype 3h,C. pacificum,V,5
+3,12/19/21,DMSO,2,2,21_02_02_34,2021_5,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_35,2021_5,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_36,2021_5,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_37,2021_5,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_38,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_39,2021_6,Haplotype 3b,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_40,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_41,2021_6,Haplotype 1a_Pgra,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_42,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_43,2021_6,Haplotype 1a_Pgra,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_44,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_45,2021_6,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_46,2021_6,Haplotype 10,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_47,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_48,2021_6,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_49,2021_6,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_50,2021_6,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_51,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_52,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_53,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_54,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_55,2021_6,Haplotype 8a,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_56,2021_6,Haplotype 10,C. pacificum,IX,5
+3,12/19/21,DMSO,2,2,21_02_02_57,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_58,2021_6,Haplotype 1a_Pm,,,5
+3,12/19/21,DMSO,2,2,21_02_02_59,2021_6,Haplotype 1a_Pm,C. latusorum,I,5
+3,12/19/21,DMSO,2,2,21_02_02_60,2021_6,Haplotype 1a_Pm,,,5
+3,12/18/21,DMSO,5,1,21_05_01_01,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_02,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_03,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_04,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_05,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_06,2021_5,Haplotype 1a_Pgra,C. latusorum,II,4
+3,12/18/21,DMSO,5,1,21_05_01_07,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_08,2021_5,Haplotype 1a_Pgra,,,4
+3,12/18/21,DMSO,5,1,21_05_01_09,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,5,1,21_05_01_10,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_11,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_12,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_13,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_14,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_15,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_16,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_17,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_18,2021_5,Haplotype 8a,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_19,2021_5,Haplotype 10,,,4
+3,12/18/21,DMSO,5,1,21_05_01_20,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_21,2021_5,Haplotype 10,,,4
+3,12/18/21,DMSO,5,1,21_05_01_22,2021_5,Haplotype 10,C. pacificum,VI,4
+3,12/18/21,DMSO,5,1,21_05_01_23,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_24,2021_5,Haplotype 10,C. pacificum,VI,4
+3,12/18/21,DMSO,5,1,21_05_01_25,2021_5,Haplotype 1a_Pgra,,,4
+3,12/18/21,DMSO,5,1,21_05_01_26,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_27,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_28,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_29,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_30,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,5,1,21_05_01_31,2021_5,Haplotype 1a_Pm,,,4
+3,12/18/21,DMSO,5,1,21_05_01_32,2021_5,Haplotype 1a_Pgra,,,4
+3,12/18/21,DMSO,5,1,21_05_01_33,2021_5,Haplotype 1a_Pgra,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_34,2021_5,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,5,1,21_05_01_35,2021_5,Haplotype 1a_Pm,,,4
+3,12/16/21,DMSO,5,2,21_05_02_01,2021_2,Haplotype 1a_Pgra,,,2
+3,12/16/21,DMSO,5,2,21_05_02_02,2021_2,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_03,2021_2,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_04,2021_2,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_05,2021_2,Haplotype 1a_Pgra,C. latusorum,II,2
+3,12/16/21,DMSO,5,2,21_05_02_06,2021_2,Haplotype 10,C. pacificum,VII,2
+3,12/16/21,DMSO,5,2,21_05_02_07,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_08,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,5,2,21_05_02_09,2021_2,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_10,2021_2,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_11,2021_2,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_12,2021_2,Haplotype 1a_Pgra,C. latusorum,II,2
+3,12/16/21,DMSO,5,2,21_05_02_13,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_14,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_15,2021_2,Haplotype 3h,C. pacificum,V,2
+3,12/16/21,DMSO,5,2,21_05_02_16,2021_2,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_17,2021_3,Haplotype 1a_Pgra,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_18,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_19,2021_3,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_20,2021_3,Haplotype 1a_Pgra,,,2
+3,12/16/21,DMSO,5,2,21_05_02_21,2021_3,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_22,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_23,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_24,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_25,2021_3,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_26,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_27,2021_3,Haplotype 3b,C. pacificum,V,2
+3,12/16/21,DMSO,5,2,21_05_02_28,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_29,2021_3,Haplotype 8a,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_30,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,5,2,21_05_02_31,2021_3,Haplotype 3b,C. pacificum,V,2
+3,12/16/21,DMSO,5,2,21_05_02_32,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_33,2021_3,Haplotype 3b,,,2
+3,12/16/21,DMSO,5,2,21_05_02_34,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,5,2,21_05_02_35,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,5,2,21_05_02_36,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/15/21,DMSO,5,4,21_05_04_01,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_02,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_03,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_04,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_05,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_06,2021_1,Haplotype 2,C. latusorum,IV,1
+3,12/15/21,DMSO,5,4,21_05_04_07,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_08,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_09,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_10,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_11,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_12,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_13,2021_1,Haplotype 11,C. latusorum,IV,1
+3,12/15/21,DMSO,5,4,21_05_04_14,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_15,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_16,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_17,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_18,2021_1,Haplotype 11,,,1
+3,12/15/21,DMSO,5,4,21_05_04_19,2021_1,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_20,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_21,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_22,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_23,2021_2,Haplotype 11,C. latusorum,IV,1
+3,12/15/21,DMSO,5,4,21_05_04_24,2021_2,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_25,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_26,2021_2,Haplotype 10,,,1
+3,12/15/21,DMSO,5,4,21_05_04_27,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_28,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_29,2021_2,Haplotype 11,C. latusorum,IV,1
+3,12/15/21,DMSO,5,4,21_05_04_30,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_31,2021_2,Haplotype 8a,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_32,2021_2,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_33,2021_2,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_34,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_35,2021_2,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_36,2021_2,Haplotype 1a_Pgra,C. latusorum,I,1
+3,12/15/21,DMSO,5,4,21_05_04_37,2021_2,Haplotype 1a_Pm,,,1
+3,12/15/21,DMSO,5,4,21_05_04_38,2021_2,Haplotype 1a_Pm,,,2
+3,12/15/21,DMSO,5,4,21_05_04_39,2021_2,Haplotype 11,C. latusorum,IV,2
+3,12/15/21,DMSO,5,4,21_05_04_40,2021_2,Haplotype 8a,,,2
+3,12/15/21,DMSO,5,4,21_05_04_41,2021_2,Haplotype 1a_Pm,,,2
+3,12/15/21,DMSO,5,4,21_05_04_42,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,5,4,21_05_04_43,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/15/21,DMSO,5,4,21_05_04_44,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/15/21,DMSO,5,4,21_05_04_45,2021_2,Haplotype 1a_Pm,,,2
+3,12/15/21,DMSO,5,4,21_05_04_46,2021_2,Haplotype 1a_Pm,,,2
+3,12/15/21,DMSO,5,4,21_05_04_47,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,5,4,21_05_04_48,2021_2,Haplotype 8a,,,2
+3,12/15/21,DMSO,5,4,21_05_04_49,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,5,4,21_05_04_50,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/14/21,DMSO,5,5,21_05_05_01,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_02,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_03,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_04,2021_1,Haplotype 1a_Pm,,,1
+3,12/14/21,DMSO,5,5,21_05_05_05,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_06,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_07,2021_1,Haplotype 1a_Pm,,,1
+3,12/14/21,DMSO,5,5,21_05_05_08,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_09,2021_1,Haplotype 1a_Pgra,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_10,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_11,2021_1,Haplotype 10,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_12,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_13,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_14,2021_1,Haplotype 2,C. latusorum,IV,1
+3,12/14/21,DMSO,5,5,21_05_05_15,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_16,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_17,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_18,2021_1,Haplotype 1a_Pgra,,,1
+3,12/14/21,DMSO,5,5,21_05_05_19,2021_1,Haplotype 1a_Pgra,C. latusorum,II,1
+3,12/14/21,DMSO,5,5,21_05_05_20,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_21,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_22,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_23,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_24,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_25,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_26,2021_1,Haplotype 11,C. latusorum,IV,1
+3,12/14/21,DMSO,5,5,21_05_05_27,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_28,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_29,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_30,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_31,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,5,5,21_05_05_32,2021_1,Haplotype 3a,C. pacificum,V,1
+3,12/14/21,DMSO,5,5,21_05_05_33,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/18/21,DMSO,20,1,21_20_01_01,2021_4,Haplotype 3h,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_02,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_03,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_04,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_05,2021_4,Haplotype 10,C. pacificum,VI,4
+3,12/18/21,DMSO,20,1,21_20_01_06,2021_4,Haplotype 10,C. pacificum,VI,4
+3,12/18/21,DMSO,20,1,21_20_01_07,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_08,2021_4,Haplotype 10,C. pacificum,VI,4
+3,12/18/21,DMSO,20,1,21_20_01_09,2021_4,Haplotype 3f,C. pacificum,VII,4
+3,12/18/21,DMSO,20,1,21_20_01_10,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_11,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_12,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_13,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_14,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_15,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_16,2021_4,Haplotype 3b,C. pacificum,VI,4
+3,12/18/21,DMSO,20,1,21_20_01_17,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_18,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_19,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_20,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_21,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_22,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_23,2021_4,Haplotype 1a_Pm,C. latusorum,I,4
+3,12/18/21,DMSO,20,1,21_20_01_24,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_25,2021_4,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_26,2021_4,Haplotype 10,C. pacificum,VII,4
+3,12/18/21,DMSO,20,1,21_20_01_27,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_28,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_29,2021_5,Haplotype 3f,C. pacificum,V,4
+3,12/18/21,DMSO,20,1,21_20_01_30,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_31,2021_5,Haplotype 3b,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_32,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_33,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_34,2021_5,Haplotype 3f,C. pacificum,IX,4
+3,12/18/21,DMSO,20,1,21_20_01_35,2021_5,Haplotype 10,C. pacificum,IX,4
+3,12/16/21,DMSO,20,2,21_20_02_01,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,20,2,21_20_02_02,2021_3,Haplotype 10,C. pacificum,VI,2
+3,12/16/21,DMSO,20,2,21_20_02_03,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,20,2,21_20_02_04,2021_3,Haplotype 10,,,2
+3,12/16/21,DMSO,20,2,21_20_02_05,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,20,2,21_20_02_06,2021_3,Haplotype 10,C. pacificum,VI,2
+3,12/16/21,DMSO,20,2,21_20_02_07,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,20,2,21_20_02_08,2021_3,Haplotype 10,C. pacificum,IX,2
+3,12/16/21,DMSO,20,2,21_20_02_09,2021_3,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/16/21,DMSO,20,2,21_20_02_10,2021_3,Haplotype 1a_Pm,,,2
+3,12/16/21,DMSO,20,2,21_20_02_11,2021_3,Haplotype 10,,,3
+3,12/16/21,DMSO,20,2,21_20_02_12,2021_3,Haplotype 10,,,3
+3,12/16/21,DMSO,20,2,21_20_02_13,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_14,2021_3,Haplotype 10,C. pacificum,VI,3
+3,12/16/21,DMSO,20,2,21_20_02_15,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_16,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_17,2021_3,Haplotype 10,C. pacificum,VII,3
+3,12/16/21,DMSO,20,2,21_20_02_18,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_19,2021_3,Haplotype 10,C. pacificum,VI,3
+3,12/16/21,DMSO,20,2,21_20_02_20,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_21,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_22,2021_3,Haplotype 10,C. latusorum,I,3
+3,12/16/21,DMSO,20,2,21_20_02_23,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_24,2021_3,Haplotype 10,C. pacificum,V,3
+3,12/16/21,DMSO,20,2,21_20_02_25,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_26,2021_3,Haplotype 10,C. pacificum,VI,3
+3,12/16/21,DMSO,20,2,21_20_02_27,2021_3,Haplotype 1a_Pm,C. latusorum,II,3
+3,12/16/21,DMSO,20,2,21_20_02_28,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_29,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_30,2021_3,Haplotype 10,,,3
+3,12/16/21,DMSO,20,2,21_20_02_31,2021_3,Haplotype 1a_Pgra,C. latusorum,III,3
+3,12/16/21,DMSO,20,2,21_20_02_32,2021_3,Haplotype 10,C. pacificum,IX,3
+3,12/16/21,DMSO,20,2,21_20_02_33,2021_3,Haplotype 1a_Pm,C. latusorum,I,3
+3,12/16/21,DMSO,20,2,21_20_02_34,2021_3,Haplotype 10,C. pacificum,VI,3
+3,12/16/21,DMSO,20,2,21_20_02_35,2021_3,Haplotype 10,C. pacificum,VI,3
+3,12/15/21,DMSO,20,4,21_20_04_01,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_02,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,20,4,21_20_04_03,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,20,4,21_20_04_04,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_05,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_06,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_07,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,20,4,21_20_04_08,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_09,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_10,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_11,2021_2,Haplotype 3a,C. pacificum,V,2
+3,12/15/21,DMSO,20,4,21_20_04_12,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/15/21,DMSO,20,4,21_20_04_13,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_14,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_15,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,20,4,21_20_04_16,2021_2,Haplotype 10,C. pacificum,VI,2
+3,12/15/21,DMSO,20,4,21_20_04_17,2021_2,Haplotype 10,C. pacificum,VI,2
+3,12/15/21,DMSO,20,4,21_20_04_18,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_19,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_20,2021_2,Haplotype 11,C. latusorum,IV,2
+3,12/15/21,DMSO,20,4,21_20_04_21,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_22,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_23,2021_2,Haplotype 10,C. pacificum,VI,2
+3,12/15/21,DMSO,20,4,21_20_04_24,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_25,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_26,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_27,2021_2,Haplotype 10,C. pacificum,VI,2
+3,12/15/21,DMSO,20,4,21_20_04_28,2021_2,Haplotype 11,,,2
+3,12/15/21,DMSO,20,4,21_20_04_29,2021_2,Haplotype 1a_Pm,C. latusorum,I,2
+3,12/15/21,DMSO,20,4,21_20_04_30,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_31,2021_2,Haplotype 3a,,,2
+3,12/15/21,DMSO,20,4,21_20_04_32,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_33,2021_2,Haplotype 10,C. pacificum,VI,2
+3,12/15/21,DMSO,20,4,21_20_04_34,2021_2,Haplotype 10,C. latusorum,I,2
+3,12/15/21,DMSO,20,4,21_20_04_35,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/15/21,DMSO,20,4,21_20_04_36,2021_2,Haplotype 10,,,2
+3,12/15/21,DMSO,20,4,21_20_04_37,2021_2,Haplotype 10,C. pacificum,IX,2
+3,12/14/21,DMSO,20,5,21_20_05_01,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_02,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,20,5,21_20_05_03,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_04,2021_1,Haplotype 8a,C. latusorum,I,1
+3,12/14/21,DMSO,20,5,21_20_05_05,2021_1,Haplotype 1a_Pm,C. latusorum,I,1
+3,12/14/21,DMSO,20,5,21_20_05_06,2021_1,Haplotype 11,,,1
+3,12/14/21,DMSO,20,5,21_20_05_07,2021_1,Haplotype 11,,,1
+3,12/14/21,DMSO,20,5,21_20_05_08,2021_1,Haplotype 1a_Pm,C. latusorum,III,1
+3,12/14/21,DMSO,20,5,21_20_05_09,2021_1,Haplotype 10,C. pacificum,VII,1
+3,12/14/21,DMSO,20,5,21_20_05_10,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_11,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_12,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_13,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_14,2021_1,Haplotype 10,C. pacificum,VI,1
+3,12/14/21,DMSO,20,5,21_20_05_15,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_16,2021_1,Haplotype 1a_Pm,,,1
+3,12/14/21,DMSO,20,5,21_20_05_17,2021_1,Haplotype 10,C. pacificum,VI,1
+3,12/14/21,DMSO,20,5,21_20_05_18,2021_1,Haplotype 10,C. pacificum,VI,1
+3,12/14/21,DMSO,20,5,21_20_05_19,2021_1,Haplotype 11,C. latusorum,IV,1
+3,12/14/21,DMSO,20,5,21_20_05_20,2021_1,Haplotype 11,,,1
+3,12/14/21,DMSO,20,5,21_20_05_21,2021_1,Haplotype 10,C. pacificum,IX,1
+3,12/14/21,DMSO,20,5,21_20_05_22,2021_1,Haplotype 10,C. pacificum,VI,1
+3,12/14/21,DMSO,20,5,21_20_05_23,2021_1,Haplotype 11,C. latusorum,IV,1
+3,12/14/21,DMSO,20,5,21_20_05_24,2021_1,Haplotype 10,C. pacificum,VI,1
+3,12/14/21,DMSO,20,5,21_20_05_25,2021_1,Haplotype 3a,C. pacificum,VIII,1
+3,12/14/21,DMSO,20,5,21_20_05_26,2021_1,Haplotype 10,C. pacificum,IX,1
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_01,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_02,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_03,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_04,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_05,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_06,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_07,,Haplotype 5a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_08,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_09,,Haplotype 3a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_10,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_11,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_12,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_13,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_14,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_15,,Haplotype 5a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_16,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_17,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_18,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_19,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_20,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_21,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_22,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_23,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_24,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_25,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_26,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_27,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_28,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_29,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_30,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_31,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_32,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_33,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_34,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_35,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_36,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_37,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_38,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_39,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_40,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_41,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_42,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_43,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_44,,Haplotype 3f,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_45,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_46,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_47,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_48,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_49,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,1,4,22_01_04_50,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_01,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_02,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_03,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_04,,Haplotype 3a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_05,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_06,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_07,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_08,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_09,,Haplotype 3a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_10,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_11,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_12,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_13,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_14,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_15,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_16,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_17,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_18,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_19,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_20,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_21,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_22,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_23,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_24,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_25,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_26,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_27,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_28,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_29,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_30,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_31,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_32,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_33,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_34,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_36,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_37,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_38,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_39,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_40,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_41,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_42,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_43,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_44,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_45,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_46,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_47,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_48,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_49,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,1,5,22_01_05_50,,Haplotype 5a,,,6 (Plate 1 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_01,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_02,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_03,,Haplotype 3f,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_04,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_05,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_06,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_07,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_08,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_09,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_10,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_11,,Haplotype 3a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_12,,Haplotype 3a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_13,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_14,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_15,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_16,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_17,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_18,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_19,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_20,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_21,,Haplotype 3a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_22,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_23,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_24,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_25,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_26,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_27,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_28,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_29,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_30,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_31,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_32,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_33,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_34,,Haplotype 3a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_35,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_36,,Haplotype 8a,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_37,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_38,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_39,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_40,,Haplotype 3e,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_41,,Haplotype 10,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_42,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_43,,Haplotype 3b,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_44,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_45,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_46,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_47,,Haplotype 3e,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_48,,Haplotype 1a_Pgra,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_49,,Haplotype 1a_Pm,,,7 (Plate 2 2022)
+4,12/15/22,DMSO/DNA Shield,2,4,22_02_04_50,,Haplotype 3e,,,7 (Plate 2 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_01,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_02,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_03,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_04,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_05,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_06,,Haplotype 3e,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_07,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_08,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_09,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_10,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_11,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_12,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_13,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_14,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_15,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_16,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_17,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_18,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_19,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_20,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_21,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_22,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_23,,Haplotype 3b,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_24,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_25,,Haplotype 8a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_26,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_27,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_28,,Haplotype 2,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_29,,Haplotype 3a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_30,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_31,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_32,,Haplotype 8a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_33,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_34,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_35,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_36,,Haplotype 1a_Pgra,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_37,,Haplotype 8a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_38,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_39,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_40,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_41,,Haplotype 10,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_42,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_43,,Haplotype 3a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_44,,Haplotype 8a,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_45,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_46,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_47,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_48,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_49,,Haplotype 1a_Pm,,,6 (Plate 1 2022)
+4,12/14/22,DMSO/DNA Shield,2,5,22_02_05_50,,Haplotype 3f,,,6 (Plate 1 2022)
